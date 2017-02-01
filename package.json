@@ -1,0 +1,21 @@
+{
+  "name": "public-transport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^2.0.40"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://chernikov.visualstudio.com/DefaultCollection/_git/InvestTarget"
+  },
+  "description": ""
+}
